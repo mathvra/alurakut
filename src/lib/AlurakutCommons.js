@@ -321,7 +321,7 @@ OrkutNostalgicIconSet.List = styled.ul`
 const AlurakutLoginScreen = css`
   :root {
     --backgroundPrimary: #D9E6F6;
-    --backgroundSecondary: #F1F9FE;
+    --backgroundSecondary: #202020;
     --backgroundTertiary: #FFFFFF;
     --backgroundQuarternary: #BBCDE8;
     --colorPrimary: #2E7BB4;
@@ -354,7 +354,7 @@ const AlurakutLoginScreen = css`
     }
     .logoArea {
       grid-area: logoArea;
-      background-color: var(--backgroundTertiary);
+      background-color: #202020;
       border-radius: var(--commonRadius);
       padding: var(--gutter);
       text-align: center;
@@ -438,7 +438,7 @@ const AlurakutLoginScreen = css`
     }
     .footerArea {
       grid-area: footerArea;
-      background-color: var(--backgroundQuarternary);
+      background-color: #151515;
       border-radius: var(--commonRadius);
       padding: 8px;
       p {
