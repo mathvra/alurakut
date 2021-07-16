@@ -80,7 +80,7 @@ AlurakutMenu.Wrapper = styled.header`
     }
     .boxLink {
       font-size: 18px;
-      color: #2E7BB4;
+      color: #6F92BB;
       -webkit-text-decoration: none;
       text-decoration: none;
       font-weight: 800;
@@ -222,7 +222,7 @@ export function AlurakutProfileSidebarMenuDefault() {
 AlurakutProfileSidebarMenuDefault.Wrapper = styled.div`
   a {
     font-size: 12px;
-    color: #2E7BB4;
+    color: #6F92BB;
     margin-bottom: 16px;
     display: flex;
     align-items: center;
@@ -290,7 +290,7 @@ OrkutNostalgicIconSet.List = styled.ul`
   flex-wrap: wrap;
   li {
     font-size: 12px;
-    color: #5A5A5A;
+    color: #8F8F8F;
     display: grid;
     grid-template-areas:
       "title title"
@@ -301,7 +301,7 @@ OrkutNostalgicIconSet.List = styled.ul`
     }
     .OrkutNostalgicIconSet__title {
       display: block;
-      font-style: italic; 
+      font-style: italic;
     }
     .OrkutNostalgicIconSet__number {
       min-width: 15px;

@@ -1,7 +1,7 @@
 import styled from 'styled-components'
 
 const Box = styled.div`
-    background: #FFFFFF;
+    background: #2C2C2C;
     border-radius: 8px;
     
     padding: 16px;
@@ -11,7 +11,7 @@ const Box = styled.div`
     
     .boxLink {
         font-size: 14px;
-        color: #2E7BB4;
+        color: #6F92BB;
         text-decoration: none;
         font-weight: 800;
     }
@@ -20,19 +20,21 @@ const Box = styled.div`
         font-size: 32px;
         font-weight: 400;
         margin-bottom: 20px;
+        color: #C7C7C7;
     }
 
     .subTitle {
         font-size: 18px;
         font-weight: 400;
         margin-bottom: 20px;
+        color: #C7C7C7;
     }
 
     .smallTitle {
         margin-bottom: 20px;
         font-size: 16px;
         font-weight: 700;
-        color: #333333;
+        color: #C7C7C7;
         margin-bottom: 20px;
     }
 
@@ -45,14 +47,14 @@ const Box = styled.div`
 
     input {
         width: 100%;
-        background-color: #F4F4F4;
-        color: #333333;
+        background-color: #3A3A3A;
+        color: #FFFFFF;
         border: 0;
         padding: 14px 16px;
         margin-bottom: 14px;
         border-radius: 10000px;
         ::placeholder {
-            color: #333333;
+            color: #999999;
             opacity: 1;
         }
     }
