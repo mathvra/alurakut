@@ -1,5 +1,8 @@
-## Participação na Imersão React 3ª edição
-**Nessa imersão foram abordados diversos assuntos e tecnologias como:**
+# Participação na Imersão React 3ª edição da Alura
+## Sobre:
+Foi desenvolvido um site parecido com o Orkut, por isso o nome (Alurakut)
+
+## Assuntos e tecnologias abrodadas:
 - React
 - NextJS
 - DATO cms
@@ -8,5 +11,7 @@
 - Cookie
 - Token
 
-Quem quiser utilizar o site desenvolvido basta acessar o link:
+## Quem quiser utilizar o site desenvolvido basta acessar o link:
 https://alurakut-mathvra.vercel.app/login
+
+## Para fazer login é só colocar seu **usuário do Github** ✌️
