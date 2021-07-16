@@ -1,6 +1,6 @@
 # Participação na Imersão React 3ª edição da Alura
 ## Sobre:
-Foi desenvolvido um site parecido com o Orkut, por isso o nome (Alurakut)
+Foi desenvolvido um site parecido com o Orkut, por isso o nome Alurakut
 
 ## Assuntos e tecnologias abrodadas:
 - React
